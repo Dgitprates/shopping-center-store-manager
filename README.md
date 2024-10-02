@@ -1,8 +1,6 @@
 Projeto Acadêmico: Gerenciador de Lojas de um Shopping Center
 
-Este projeto foi desenvolvido como parte do curso de Laboratório I no semestre 2023/1. O objetivo é implementar um sistema para gerenciar lojas de diferentes 
-segmentos em um shopping center. A aplicação permite cadastrar lojas, produtos e gerenciar suas operações, como inserção, remoção de produtos e cálculo de salários dos 
-funcionários.
+Este projeto foi desenvolvido como parte da disciplina de Laboratório I do curso de SI. O objetivo é implementar um sistema para gerenciar lojas de diferentes segmentos em um shopping center. O aplicativo permite cadastrar lojas, produtos e gerenciar suas operações, como inserção, remoção de produtos e cálculo de salários dos funcionário.
 
 Estrutura do Projeto
 
